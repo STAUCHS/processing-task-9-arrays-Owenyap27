@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/goldenyapper360/Desktop/Com Sci/JARs/core.jar"
+    ]
+}
